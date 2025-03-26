@@ -1,7 +1,10 @@
-//Maior entre dois números
+//EXERCÍCIO DOIS
+//
+// ** Maior entre dois números **
+//
 //Solicite dois números e exiba qual é o maior ou se são iguais.
 
-package com.training.fundamentos.controleDeFluxo;
+package com.training.fundamentos.controleDeFluxo.basicos;
 
 import java.util.Scanner;
 

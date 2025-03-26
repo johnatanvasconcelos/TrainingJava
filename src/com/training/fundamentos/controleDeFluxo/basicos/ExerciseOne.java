@@ -1,8 +1,10 @@
-//Verificação de Par ou Ímpar
+//EXERCÍCIO UM:
+//
+// ** Verificação de Par ou Ímpar **
 //
 //Peça um número ao usuário e verifique se é par ou ímpar.
 
-package com.training.fundamentos.controleDeFluxo;
+package com.training.fundamentos.controleDeFluxo.basicos;
 
 import java.util.Scanner;
 
